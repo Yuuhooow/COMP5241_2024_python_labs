@@ -17,4 +17,4 @@ if clear_button:
 # Display the list of past submitted input
 st.write("## Past inputs")
 for text in st.session_state.text_history:
- st.write(text)
+ st.write(text)https://streamlit.io/cloud.
